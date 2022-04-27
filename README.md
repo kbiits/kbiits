@@ -10,6 +10,7 @@ My study plan:
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
+
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 <br/>
@@ -23,6 +24,4 @@ My study plan:
 ### Stats
 <img align="center" alt="Nabiel Github Stats" src="https://github-readme-stats.vercel.app/api?username=kbiits&theme=dark&show_icons=true&hide_border=false" />
 <img align="center" alt="Nabiel Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbiits&theme=dark&show_icons=true&layout=compact"/>
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=kbiits&theme=kbiits&column=3">
-</p>
+<img align="center" width="350" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kbiits&theme=kbiits&column=3&margin-w=15&margin-h=15">
