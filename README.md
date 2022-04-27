@@ -20,15 +20,11 @@ My study plan:
 | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) | [![storedoor](https://img.shields.io/static/v1?label=&message=storedoor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kbiits/storedoor) [![farmz](https://img.shields.io/static/v1?label=&message=farmz&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kbiits/farmz) [![task_3](https://img.shields.io/static/v1?label=&message=task_3&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kbiits/task_3) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-<br/>
-
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Subset / Subsequence String](https://kbiits.medium.com/subset-subsequence-string-9b2f0f5c981e?source=rss-f29640e61386------2)
 - [Permutasi dalam programming](https://kbiits.medium.com/permutasi-dalam-programming-ae68f74a2f39?source=rss-f29640e61386------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 ### Stats
 <img align="center" alt="Nabiel Github Stats" src="https://github-readme-stats.vercel.app/api?username=kbiits&theme=dark&show_icons=true&hide_border=false" />
