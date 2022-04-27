@@ -9,9 +9,7 @@ My study plan:
 - Cloud Infrastructure (AWS EC2, DynamoDB, AWS Lambda, etc)
 
 ### Tech Stack
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 <br/>
 
