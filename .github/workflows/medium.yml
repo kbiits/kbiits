@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme.md:
+  update-readme-md:
     name: Fetch medium posts and update readme.md
     runs-on: ubuntu-latest
     steps:
