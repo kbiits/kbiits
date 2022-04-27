@@ -1,0 +1,50 @@
+- name: Golang
+  logo: go
+  url: https://golang.org/
+  color: '#00ADD8'
+  projects:
+    - url: https://github.com/kbiits/simple-ecommerce-microservices-grpc
+    - url: https://github.com/kbiits/go-microservices-grpc-example
+
+- name: Typescript
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3178C6'
+  projects:
+    - url: https://github.com/kbiits/whatsapp-bot-multi-device
+    - url: https://github.com/kbiits/whatsapp-bot
+
+- name: Java
+  logo: java
+  url: https://www.java.com/
+  color: '#007396'
+  projects:
+    - url: https://github.com/kbiits/backtracking
+    - url: https://github.com/kbiits/leetcode
+    - url: https://github.com/kbiits/design-patterns
+    - url: https://github.com/kbiits/recursions
+
+- name: Laravel
+  logo: laravel
+  url: https://laravel.com/
+  color: '#FF2D20'
+  projects:
+    - url: https://github.com/kbiits/laravel-movies-app
+    - url: https://github.com/kbiits/storedoor-web-services
+
+- name: JavaScript
+  logo: javascript
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  color: '#F7DF1E'
+  projects:
+    - url: https://github.com/kbiits/learn-redux-thunk
+    - url: https://github.com/kbiits/react-redux-project-1
+
+- name: Flutter
+  logo: flutter
+  url: https://flutter.dev/
+  color: '#02569B'
+  projects:
+    - url: https://github.com/kbiits/storedoor
+    - url: https://github.com/kbiits/farmz
+    - url: https://github.com/kbiits/task_3
