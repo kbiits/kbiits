@@ -6,7 +6,7 @@ My study plan:
 - Protobuf (done :heavy_check_mark:), GRPC (done :heavy_check_mark:) and microservices (on going)
 - ELK Stack (Elastic search, logstash and Kibana) (on going)
 - Distributed Tracing, Opentracing, OpenTelemetry and Jaeger (on going)
-- Cloud Infrastructure (AWS EC2, DynamoDB, AWS Lambda, etc)
+- Cloud Infrastructure (AWS EC2, DynamoDB, AWS Lambda, etc) (on going)
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
