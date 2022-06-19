@@ -1,5 +1,5 @@
 # Hi, I'm Nabiel Omar Syarif 👋
-##  I’m a second year Comp. Science Student, currently focused on Backend Development.
+##  I’m a third year Comp. Science Student, currently focused on Backend Development.
 
 My study plan:
 - Message Broker (kafka, rabbitmq) and pubsub pattern (on going)
