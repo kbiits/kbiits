@@ -1,13 +1,6 @@
 # Hi, I'm Nabiel Omar Syarif 👋
 ##  I’m a third year Comp. Science Student, currently focused on Backend Development.
 
-My study plan:
-- Message Broker (kafka, rabbitmq) and pubsub pattern (on going)
-- Protobuf (done :heavy_check_mark:), GRPC (done :heavy_check_mark:) and microservices (on going)
-- ELK Stack (Elastic search, logstash and Kibana) (on going)
-- Distributed Tracing, Opentracing, OpenTelemetry and Jaeger (on going)
-- Cloud Infrastructure (AWS EC2, DynamoDB, AWS Lambda, etc) (on going)
-
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
