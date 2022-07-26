@@ -1,5 +1,6 @@
 # Hi, I'm Nabiel Omar Syarif 👋
-##  I’m a third year Comp. Science Student, currently focused on Backend Development.
+
+I'm just a person who loves to code. My goal right now is to create my own dream world.
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
