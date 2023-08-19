@@ -16,6 +16,7 @@ I'm just a person who loves to code. My goals right now is to create my own drea
 
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mutex ?? Race condition ? Benda apakah itu?](https://kbiits.medium.com/mutex-race-condition-benda-apakah-itu-e089d3cdace5?source=rss-f29640e61386------2)
 - [Subset / Subsequence String](https://kbiits.medium.com/subset-subsequence-string-9b2f0f5c981e?source=rss-f29640e61386------2)
 - [Permutasi dalam programming](https://kbiits.medium.com/permutasi-dalam-programming-ae68f74a2f39?source=rss-f29640e61386------2)
 <!-- BLOG-POST-LIST:END -->
