@@ -1,6 +1,6 @@
-# Hi, I'm Nabiel Omar Syarif 👋
+# Hi, I'm Nabiel 👋
 
-I'm just a person who loves to code. My goals right now is to create my own dream world.
+A passionate developer who fall in love in writing codes and make an impact (in a good meaning) to others
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
