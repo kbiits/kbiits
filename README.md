@@ -16,6 +16,7 @@ A passionate developer who fall in love in writing codes and make an impact (in 
 
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor network requests and responses in production-built Android app](https://kbiits.medium.com/monitor-network-requests-and-responses-in-production-built-android-app-707c011e0c7b?source=rss-f29640e61386------2)
 - [Mutex ?? Race condition ? Benda apakah itu?](https://kbiits.medium.com/mutex-race-condition-benda-apakah-itu-e089d3cdace5?source=rss-f29640e61386------2)
 - [Subset / Subsequence String](https://kbiits.medium.com/subset-subsequence-string-9b2f0f5c981e?source=rss-f29640e61386------2)
 - [Permutasi dalam programming](https://kbiits.medium.com/permutasi-dalam-programming-ae68f74a2f39?source=rss-f29640e61386------2)
