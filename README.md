@@ -1,6 +1,6 @@
 # Hi, I'm Nabiel 👋
 
-A passionate developer who fall in love in writing codes and make an impact (in a good meaning) to others
+A passionate developer who falls in love with writing codes.
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
