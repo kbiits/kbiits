@@ -23,6 +23,8 @@ A passionate developer who falls in love in coding.
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
+<img align="center" alt="Nabiel Leetcode Stats" src="https://leetcard.jacoblin.cool/kbiits?ext=contest" />
 <img align="center" alt="Nabiel Github Stats" src="https://github-readme-stats.vercel.app/api?username=kbiits&theme=dark&show_icons=true&hide_border=false" />
 <img align="center" alt="Nabiel Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbiits&theme=dark&show_icons=true&layout=compact"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbiits&theme=default" alt="kbiits" />
 <img align="center" width="350" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kbiits&theme=kbiits&column=3&margin-w=15&margin-h=15">
