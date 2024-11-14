@@ -2,6 +2,11 @@
 
 A passionate developer who falls in love in coding.
 
+<div>
+    <a href="https://www.linkedin.com/in/nabiel" style="padding:4px"><img height="24" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <img height="24" style="padding: 4px" src="https://komarev.com/ghpvc/?username=kbiits&style=flat-square&color=blue" alt="">
+</div>
+
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
