@@ -1,6 +1,6 @@
 # Hi, I'm Nabiel 👋
 
-A passionate developer who falls in love in coding.
+A passionate developer who falls in love in coding. Currently working with Java, Groovy, Kotlin and springboot
 
 <div>
     <a href="https://www.linkedin.com/in/nabiel" style="padding:4px"><img height="24" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
