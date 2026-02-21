@@ -21,11 +21,11 @@ A passionate developer who falls in love in coding. Currently working with Java,
 
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta vs. Palembang: A Totally Biased, Unfiltered Take](https://kbiits.medium.com/jakarta-vs-palembang-a-totally-biased-unfiltered-take-7dc82e438d29?source=rss-f29640e61386------2)
 - [Monitoring your PHP-FPM services](https://kbiits.medium.com/monitoring-your-php-fpm-services-4ae194067db8?source=rss-f29640e61386------2)
 - [Cache Alignment: Why Your Go Code Is Burning the CPU](https://kbiits.medium.com/cache-alignment-why-your-go-code-is-burning-the-cpu-e5002a0e0e5e?source=rss-f29640e61386------2)
 - [How to choose technology? gRPC vs. Rest, jQuery vs. React?](https://kbiits.medium.com/how-to-choose-technology-grpc-vs-rest-jquery-vs-react-e49f5e32801d?source=rss-f29640e61386------2)
 - [Monitor network requests and responses in production-built Android app](https://kbiits.medium.com/monitor-network-requests-and-responses-in-production-built-android-app-707c011e0c7b?source=rss-f29640e61386------2)
-- [Mutex ?? Race condition ? Benda apakah itu?](https://kbiits.medium.com/mutex-race-condition-benda-apakah-itu-e089d3cdace5?source=rss-f29640e61386------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
